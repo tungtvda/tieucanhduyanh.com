@@ -1,0 +1,69 @@
+<?php
+class sanpham
+{
+    public $Id,$DanhMucId,$Name,$Img,$Img2,$Img3,$Img4,$Img5,$Soluong,$TrangThai,$GiaCu,$GiaMoi,$MoTaNgan,$NoiDung,$Thongso,$Title,$Keyword,$Description;
+    public function sanpham($data=array())
+    {
+    $this->Id=isset($data['Id'])?$data['Id']:'';
+    $this->DanhMucId=isset($data['DanhMucId'])?$data['DanhMucId']:'';
+    $this->Name=isset($data['Name'])?$data['Name']:'';
+    $this->Img=isset($data['Img'])?$data['Img']:'';
+    $this->Img2=isset($data['Img2'])?$data['Img2']:'';
+    $this->Img3=isset($data['Img3'])?$data['Img3']:'';
+    $this->Img4=isset($data['Img4'])?$data['Img4']:'';
+    $this->Img5=isset($data['Img5'])?$data['Img5']:'';
+    $this->Soluong=isset($data['Soluong'])?$data['Soluong']:'';
+    $this->TrangThai=isset($data['TrangThai'])?$data['TrangThai']:'';
+    $this->GiaCu=isset($data['GiaCu'])?$data['GiaCu']:'';
+    $this->GiaMoi=isset($data['GiaMoi'])?$data['GiaMoi']:'';
+    $this->MoTaNgan=isset($data['MoTaNgan'])?$data['MoTaNgan']:'';
+    $this->NoiDung=isset($data['NoiDung'])?$data['NoiDung']:'';
+    $this->Thongso=isset($data['Thongso'])?$data['Thongso']:'';
+    $this->Title=isset($data['Title'])?$data['Title']:'';
+    $this->Keyword=isset($data['Keyword'])?$data['Keyword']:'';
+    $this->Description=isset($data['Description'])?$data['Description']:'';
+          $this->encode();
+    }
+    public function encode()
+        {
+            $this->Id=addslashes($this->Id);
+            $this->DanhMucId=addslashes($this->DanhMucId);
+            $this->Name=addslashes($this->Name);
+            $this->Img=addslashes($this->Img);
+            $this->Img2=addslashes($this->Img2);
+            $this->Img3=addslashes($this->Img3);
+            $this->Img4=addslashes($this->Img4);
+            $this->Img5=addslashes($this->Img5);
+            $this->Soluong=addslashes($this->Soluong);
+            $this->TrangThai=addslashes($this->TrangThai);
+            $this->GiaCu=addslashes($this->GiaCu);
+            $this->GiaMoi=addslashes($this->GiaMoi);
+            $this->MoTaNgan=addslashes($this->MoTaNgan);
+            $this->NoiDung=addslashes($this->NoiDung);
+            $this->Thongso=addslashes($this->Thongso);
+            $this->Title=addslashes($this->Title);
+            $this->Keyword=addslashes($this->Keyword);
+            $this->Description=addslashes($this->Description);
+        }
+    public function decode()
+        {
+            $this->Id=stripslashes($this->Id);
+            $this->DanhMucId=stripslashes($this->DanhMucId);
+            $this->Name=stripslashes($this->Name);
+            $this->Img=stripslashes($this->Img);
+            $this->Img2=stripslashes($this->Img2);
+            $this->Img3=stripslashes($this->Img3);
+            $this->Img4=stripslashes($this->Img4);
+            $this->Img5=stripslashes($this->Img5);
+            $this->Soluong=stripslashes($this->Soluong);
+            $this->TrangThai=stripslashes($this->TrangThai);
+            $this->GiaCu=stripslashes($this->GiaCu);
+            $this->GiaMoi=stripslashes($this->GiaMoi);
+            $this->MoTaNgan=stripslashes($this->MoTaNgan);
+            $this->NoiDung=stripslashes($this->NoiDung);
+            $this->Thongso=stripslashes($this->Thongso);
+            $this->Title=stripslashes($this->Title);
+            $this->Keyword=stripslashes($this->Keyword);
+            $this->Description=stripslashes($this->Description);
+        }
+}
