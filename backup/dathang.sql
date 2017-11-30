@@ -1,0 +1,6 @@
+insert into dathang (Id_chung,Name,Email,Phone,Address,TrangThai,NoiDung,Created) values ('58670085_tungtv.soict@gmail.com','Trần Văn Tùng','tungtv.soict@gmail.com','01676331802','Đông Anh, Hà Nội','','','15-11-22 05:35:18');
+insert into dathang (Id_chung,Name,Email,Phone,Address,TrangThai,NoiDung,Created) values ('3360082_tungtv.soict@gmail.com','Trần Văn Tùng','tungtv.soict@gmail.com','01766331802','Ha Noi','','test nọi dung','15-11-22 05:38:22');
+insert into dathang (Id_chung,Name,Email,Phone,Address,TrangThai,NoiDung,Created) values ('92208871_tungtv.soict@gmail.com','test','tungtv.soict@gmail.com','0123456789','Hà Nội','','Hà Nội','17-11-05 04:08:18');
+insert into dathang (Id_chung,Name,Email,Phone,Address,TrangThai,NoiDung,Created) values ('45684869_tungtv.soict@gmail.com','Trần Văn Tùng','tungtv.soict@gmail.com','01676331802','test','','test','17-11-05 04:10:05');
+insert into dathang (Id_chung,Name,Email,Phone,Address,TrangThai,NoiDung,Created) values ('24078445_tungtv.soict@gmail.com','Trần Văn Tùng','tungtv.soict@gmail.com','0126543534534','Trần Văn Tùng','','Hà Nội','17-11-05 04:16:33');
+insert into dathang (Id_chung,Name,Email,Phone,Address,TrangThai,NoiDung,Created) values ('69711334_tungtv.soict@gmail.com','Trần Văn Tùng','tungtv.soict@gmail.com','01676331802','Hà Nội','','TEst','17-11-05 06:29:23');

@@ -1,0 +1,24 @@
+#php_value upload_max_filesize 40M
+#php_value post_max_size 42M
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^.kzone.vn
+ErrorDocument 404 /404.php
+RewriteRule ^(.*)$ http://radio.kzone.vn/$1 [R=permanent,L]
+RewriteRule ^admin controller/admin/index.php
+RewriteRule ^login controller/admin/login.php
+RewriteRule ^([a-zA-Z0-9_-]+)-([0-9]+).html$ controller/default/chitietsanpham.php?Id=$2
+RewriteRule ^danh-muc/([0-9]+)/([a-zA-Z0-9_-]+)/$ controller/default/danhmuc.php?Id=$1
+RewriteRule ^danh-muc/([0-9]+)/([a-zA-Z0-9_-]+)/page-([0-9]+)$ controller/default/danhmuc.php?Id=$1&page=$3
+
+RewriteRule ^gioi-thieu.html$ controller/default/gioithieu.php
+RewriteRule ^tin-tuc/$ controller/default/tintuc.php
+RewriteRule ^tin-tuc/([a-zA-Z0-9_-]+)-([0-9]+).html$ controller/default/chitiettintuc.php?Id=$2
+
+RewriteRule ^tin-tuc/page-([0-9]+)$ controller/default/tintuc.php?page=$1
+
+RewriteRule ^dat-hang/([a-zA-Z0-9_-]+)-([0-9]+).html$ controller/default/giohang.php?Id=$2
+RewriteRule ^lien-he.html$ controller/default/lienhe.php
+RewriteRule ^tim-kiem$ controller/default/timkiem.php
+RewriteRule ^xoa-gio-hang/([0-9]+)$ controller/default/delete_giohang.php?Id=$1
+RewriteRule ^gio-hang.html$ controller/default/giohang.php

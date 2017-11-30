@@ -1,0 +1,60 @@
+<?php
+class config
+{
+    public $Id,$Title,$Keywords,$Description,$Logo,$Icon,$Name,$Address,$Phone,$Email,$Website,$Skype,$Yahoo,$facebook,$NoiDung;
+    public function config($data=array())
+    {
+    $this->Id=isset($data['Id'])?$data['Id']:'';
+    $this->Title=isset($data['Title'])?$data['Title']:'';
+    $this->Keywords=isset($data['Keywords'])?$data['Keywords']:'';
+    $this->Description=isset($data['Description'])?$data['Description']:'';
+    $this->Logo=isset($data['Logo'])?$data['Logo']:'';
+    $this->Icon=isset($data['Icon'])?$data['Icon']:'';
+    $this->Name=isset($data['Name'])?$data['Name']:'';
+    $this->Address=isset($data['Address'])?$data['Address']:'';
+    $this->Phone=isset($data['Phone'])?$data['Phone']:'';
+    $this->Email=isset($data['Email'])?$data['Email']:'';
+    $this->Website=isset($data['Website'])?$data['Website']:'';
+    $this->Skype=isset($data['Skype'])?$data['Skype']:'';
+    $this->Yahoo=isset($data['Yahoo'])?$data['Yahoo']:'';
+    $this->facebook=isset($data['facebook'])?$data['facebook']:'';
+    $this->NoiDung=isset($data['NoiDung'])?$data['NoiDung']:'';
+          $this->encode();
+    }
+    public function encode()
+        {
+            $this->Id=addslashes($this->Id);
+            $this->Title=addslashes($this->Title);
+            $this->Keywords=addslashes($this->Keywords);
+            $this->Description=addslashes($this->Description);
+            $this->Logo=addslashes($this->Logo);
+            $this->Icon=addslashes($this->Icon);
+            $this->Name=addslashes($this->Name);
+            $this->Address=addslashes($this->Address);
+            $this->Phone=addslashes($this->Phone);
+            $this->Email=addslashes($this->Email);
+            $this->Website=addslashes($this->Website);
+            $this->Skype=addslashes($this->Skype);
+            $this->Yahoo=addslashes($this->Yahoo);
+            $this->facebook=addslashes($this->facebook);
+            $this->NoiDung=addslashes($this->NoiDung);
+        }
+    public function decode()
+        {
+            $this->Id=stripslashes($this->Id);
+            $this->Title=stripslashes($this->Title);
+            $this->Keywords=stripslashes($this->Keywords);
+            $this->Description=stripslashes($this->Description);
+            $this->Logo=stripslashes($this->Logo);
+            $this->Icon=stripslashes($this->Icon);
+            $this->Name=stripslashes($this->Name);
+            $this->Address=stripslashes($this->Address);
+            $this->Phone=stripslashes($this->Phone);
+            $this->Email=stripslashes($this->Email);
+            $this->Website=stripslashes($this->Website);
+            $this->Skype=stripslashes($this->Skype);
+            $this->Yahoo=stripslashes($this->Yahoo);
+            $this->facebook=stripslashes($this->facebook);
+            $this->NoiDung=stripslashes($this->NoiDung);
+        }
+}
