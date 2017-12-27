@@ -1,9 +1,16 @@
 <link rel="stylesheet" href="{SITE-NAME}/view/default/themes/css/tab.css">
 <script>
     $(document).ready(function () {
+        $("#slide_small0").click(function () {
+            $(".an0").show();
+            $(".an1").hide();
+            $(".an2").hide();
+            $(".an3").hide();
+            $(".an4").hide();
+        })
         $("#slide_small1").click(function () {
-
             $(".an1").show();
+            $(".an0").hide();
             $(".an2").hide();
             $(".an3").hide();
             $(".an4").hide();
@@ -11,19 +18,20 @@
         $("#slide_small2").click(function () {
 
             $(".an1").hide();
+            $(".an0").hide();
             $(".an2").show();
             $(".an3").hide();
             $(".an4").hide();
         })
         $("#slide_small3").click(function () {
-
+            $(".an0").hide();
             $(".an1").hide();
             $(".an2").hide();
             $(".an3").show();
             $(".an4").hide();
         })
         $("#slide_small4").click(function () {
-
+            $(".an0").hide();
             $(".an1").hide();
             $(".an2").hide();
             $(".an3").hide();
@@ -42,28 +50,35 @@
                  style="opacity: 1; display: block; height: 360px">
                 <div class="owl-wrapper-outer">
                     <div class="owl-wrapper" style="width: 6048px; left: 0px; display: block;">
-                        <div class="owl-item " style="width: 336px;">
-                            <div class="single-product-gallery-item an1" id="slide1">
-                                <a data-lightbox="image-1" data-title="{Name}" href="{Img2}">
-                                    <img class="img-responsive" alt="{Name}" src="{Img2}">
+                        <div class="owl-item an0" style="width: 336px;">
+                            <div class="single-product-gallery-item an0" id="slide1">
+                                <a data-lightbox="image-1" data-title="{Name}" href="{Img}">
+                                    <img class="img-responsive"  alt="{Name}" src="{Img}">
                                 </a>
                             </div>
                         </div>
-                        <div class="owl-item " style="width: 336px;">
+                        <div class="owl-item an1" style="width: 336px;">
+                            <div class="single-product-gallery-item an1" id="slide1">
+                                <a data-lightbox="image-1" data-title="{Name}" href="{Img2}">
+                                    <img class="img-responsive"  alt="{Name}" src="{Img2}">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="owl-item an2" style="width: 336px; padding: 10px">
                             <div class="single-product-gallery-item an2" id="slide2">
                                 <a data-lightbox="image-1" data-title="{Name}" href="{Img3}">
                                     <img class="img-responsive" alt="{Name}" src="{Img3}">
                                 </a>
                             </div>
                         </div>
-                        <div class="owl-item an3" style="width: 336px;">
+                        <div class="owl-item an3" style="width: 336px;padding: 10px">
                             <div class="single-product-gallery-item" id="slide2">
                                 <a data-lightbox="image-1" data-title="{Name}" href="{Img4}">
                                     <img class="img-responsive" alt="{Name}" src="{Img4}">
                                 </a>
                             </div>
                         </div>
-                        <div class="owl-item an4" style="width: 336px;">
+                        <div class="owl-item an4" style="width: 336px;padding: 10px">
                             <div class="single-product-gallery-item" id="slide2">
                                 <a data-lightbox="image-1" data-title="{Name}" href="{Img5}">
                                     <img class="img-responsive" alt="{Name}" src="{Img5}">
@@ -100,8 +115,17 @@
                         <div style="width: 1512px; left: 0px; display: block;">
                             <div class="owl-item" style="width: 84px;float: left">
                                 <div class="item">
+                                    <a id="slide_small0"
+                                       href="javascript:void(0)">
+                                        <img class="img-responsive" width="85" alt=""
+                                             src="{Img}">
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="owl-item" style="width: 84px;float: left">
+                                <div class="item">
                                     <a id="slide_small1"
-                                       href="javascript:void()">
+                                       href="javascript:void(0)">
                                         <img class="img-responsive" width="85" alt=""
                                              src="{Img2}">
                                     </a>
@@ -110,7 +134,7 @@
                             <div class="owl-item" style="width: 84px;">
                                 <div class="item">
                                     <a id="slide_small2"
-                                       href="javascript:void()">
+                                       href="javascript:void(0)">
                                         <img class="img-responsive" width="85" alt=""
                                              src="{Img3}">
                                     </a>
@@ -119,7 +143,7 @@
                             <div class="owl-item" style="width: 84px;">
                                 <div class="item">
                                     <a id="slide_small3"
-                                       href="javascript:void()">
+                                       href="javascript:void(0)">
                                         <img class="img-responsive" width="85" alt=""
                                              src="{Img4}">
                                     </a>
@@ -128,7 +152,7 @@
                             <div class="owl-item" style="width: 84px;">
                                 <div class="item">
                                     <a id="slide_small4"
-                                       href="javascript:void()">
+                                       href="javascript:void(0)">
                                         <img class="img-responsive" width="85" alt=""
                                              src="{Img5}">
                                     </a>

@@ -20512,3 +20512,1620 @@ update sanpham set DanhMucId='3',Name='Ainol Numy 3G Vegas',Img='/gbm_shopdienth
 <p>
 	&nbsp;</p>
 ',Title='Ainol Numy 3G Vegas',Keyword='Ainol Numy 3G Vegas',Description='Ainol Numy 3G Vegas' where Id=11;
+update sanpham set DanhMucId='1',Name='Sen Hạt ngọc',Img='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Img2='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Img3='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Img4='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Img5='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Soluong='1',TrangThai='1',GiaCu='',GiaMoi='20000',MoTaNgan='<p>
+	Một mẫu sen đ&aacute; đ&aacute;ng y&ecirc;u , nh&igrave;n tr&ograve;n tr&ograve;n như những hạt ngọc ! Đ&uacute;ng như t&ecirc;n gọi của n&oacute;!&nbsp;</p>
+',NoiDung='',Thongso='<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"547\">
+	<tbody>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									M&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									IPS 5 point touch Capacitive Screen , 7inches</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Vi xử l&yacute; CPU</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									MTK8312 Dual Core 1.3GHz</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Chip đồ họa (GPU)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual Core Mali400</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									RAM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									512 MB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bộ nhớ trong</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									8 GB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Ch&iacute;nh : 2.0 MP, Phụ : 0.3 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Kết nối</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									3G( HSDPA, 21 Mbps; HSUPA, 5.76 Mbps), 802.11 b/g/n</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian sử dụng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									189.45x108.15x10.3mm</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									IPS 5 point touch Capacitive Screen</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									M&agrave;u m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									16 Triệu m&agrave;u</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Độ ph&acirc;n giải</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									1024x600 pixels</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									7 inch</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									C&ocirc;ng nghệ cảm ứng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									cảm ứng điện dung đa điểm.</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại CPU (Chipset)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									MTK8312</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Số nh&acirc;n</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual-core</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Tốc độ CPU</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									1.3 GHz</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									RAM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									512 MB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Chip đồ hoạ (GPU)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual Core Mali400</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bộ nhớ trong</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									8 GB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thẻ nhớ ngo&agrave;i</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Micro SD</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Hỗ trợ thẻ nhớ tối đa</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									32 GB</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera sau</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									2.0 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera trước</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									0.3 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									T&iacute;nh năng camera</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Quay Phim</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Băng tần 3G</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute; 3G ( tốc độ Download 21 Mbps, Upload 5.76 Mbps)</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Băng tần 4G</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Wifi</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									802.11b/g/n</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Hỗ trợ SIM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									GPS</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									A-GPS</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bluetooth</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Cổng USB</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Jack (Input &amp; Output)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									3.5</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Xem phim</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									AVI/3GP/MP4/MKV/WEBM/MOV/MPG/VOB...</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Nghe nhạc</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									WAV/MP3/MIDI/AAC/APE/MP2/AMR/FLAC/Oggvorbis...</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Ghi &acirc;m</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									C&ocirc;ng vụ văn ph&ograve;ng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									WORD/EXCEL/POWERPOINT/PDF/TXT&hellip;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Ứng dụng kh&aacute;c</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Facebook, -, Game, Lịch, Đồng hồ, B&aacute;o thức, Youtube, Bản đồ, Sổ tay, Google Maps</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước (DxRxC)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									189.45x108.15x10.3mm</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Trọng lượng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									264.8g</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại pin</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Li-Polymer Battery</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Dung lượng pin</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									2500mAH</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian sử dụng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian bảo h&agrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									12 Th&aacute;ng</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+',Title='Sen đá',Keyword='Sen đá',Description='Sen hạt ngọc' where Id=11;
+update sanpham set DanhMucId='1',Name='Sen Hạt ngọc',Img='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Img2='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Img3='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Img4='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Img5='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/H%E1%BA%A1t%20ng%E1%BB%8Dc.jpg',Soluong='1',TrangThai='1',GiaCu='',GiaMoi='20000',MoTaNgan='<p>
+	Một mẫu sen đ&aacute; đ&aacute;ng y&ecirc;u , nh&igrave;n tr&ograve;n tr&ograve;n như những hạt ngọc ! Đ&uacute;ng như t&ecirc;n gọi của n&oacute;!&nbsp;</p>
+',NoiDung='',Thongso='<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"547\">
+	<tbody>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									M&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									IPS 5 point touch Capacitive Screen , 7inches</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Vi xử l&yacute; CPU</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									MTK8312 Dual Core 1.3GHz</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Chip đồ họa (GPU)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual Core Mali400</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									RAM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									512 MB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bộ nhớ trong</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									8 GB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Ch&iacute;nh : 2.0 MP, Phụ : 0.3 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Kết nối</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									3G( HSDPA, 21 Mbps; HSUPA, 5.76 Mbps), 802.11 b/g/n</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian sử dụng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									189.45x108.15x10.3mm</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									IPS 5 point touch Capacitive Screen</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									M&agrave;u m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									16 Triệu m&agrave;u</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Độ ph&acirc;n giải</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									1024x600 pixels</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									7 inch</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									C&ocirc;ng nghệ cảm ứng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									cảm ứng điện dung đa điểm.</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại CPU (Chipset)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									MTK8312</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Số nh&acirc;n</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual-core</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Tốc độ CPU</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									1.3 GHz</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									RAM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									512 MB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Chip đồ hoạ (GPU)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual Core Mali400</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bộ nhớ trong</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									8 GB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thẻ nhớ ngo&agrave;i</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Micro SD</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Hỗ trợ thẻ nhớ tối đa</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									32 GB</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera sau</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									2.0 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera trước</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									0.3 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									T&iacute;nh năng camera</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Quay Phim</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Băng tần 3G</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute; 3G ( tốc độ Download 21 Mbps, Upload 5.76 Mbps)</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Băng tần 4G</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Wifi</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									802.11b/g/n</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Hỗ trợ SIM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									GPS</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									A-GPS</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bluetooth</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Cổng USB</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Jack (Input &amp; Output)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									3.5</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Xem phim</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									AVI/3GP/MP4/MKV/WEBM/MOV/MPG/VOB...</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Nghe nhạc</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									WAV/MP3/MIDI/AAC/APE/MP2/AMR/FLAC/Oggvorbis...</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Ghi &acirc;m</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									C&ocirc;ng vụ văn ph&ograve;ng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									WORD/EXCEL/POWERPOINT/PDF/TXT&hellip;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Ứng dụng kh&aacute;c</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Facebook, -, Game, Lịch, Đồng hồ, B&aacute;o thức, Youtube, Bản đồ, Sổ tay, Google Maps</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước (DxRxC)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									189.45x108.15x10.3mm</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Trọng lượng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									264.8g</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại pin</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Li-Polymer Battery</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Dung lượng pin</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									2500mAH</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian sử dụng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian bảo h&agrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									12 Th&aacute;ng</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+',Title='Sen đá',Keyword='Sen đá',Description='Sen hạt ngọc' where Id=11;
+update sanpham set DanhMucId='1',Name='Sen Hạt ngọc',Img='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/hatngoc.jpg',Img2='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/hatngoc.jpg',Img3='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/hatngoc.jpg',Img4='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/hatngoc.jpg',Img5='/tieucanhduyanh.com/view/admin/Themes/kcfinder/upload/images/sanpham/hatngoc.jpg',Soluong='1',TrangThai='1',GiaCu='',GiaMoi='20000',MoTaNgan='<p>
+	Một mẫu sen đ&aacute; đ&aacute;ng y&ecirc;u , nh&igrave;n tr&ograve;n tr&ograve;n như những hạt ngọc ! Đ&uacute;ng như t&ecirc;n gọi của n&oacute;!&nbsp;</p>
+',NoiDung='',Thongso='<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"547\">
+	<tbody>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									M&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									IPS 5 point touch Capacitive Screen , 7inches</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Vi xử l&yacute; CPU</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									MTK8312 Dual Core 1.3GHz</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Chip đồ họa (GPU)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual Core Mali400</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									RAM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									512 MB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bộ nhớ trong</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									8 GB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Ch&iacute;nh : 2.0 MP, Phụ : 0.3 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Kết nối</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									3G( HSDPA, 21 Mbps; HSUPA, 5.76 Mbps), 802.11 b/g/n</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian sử dụng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									189.45x108.15x10.3mm</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									IPS 5 point touch Capacitive Screen</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									M&agrave;u m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									16 Triệu m&agrave;u</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Độ ph&acirc;n giải</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									1024x600 pixels</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước m&agrave;n h&igrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									7 inch</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									C&ocirc;ng nghệ cảm ứng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									cảm ứng điện dung đa điểm.</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại CPU (Chipset)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									MTK8312</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Số nh&acirc;n</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual-core</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Tốc độ CPU</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									1.3 GHz</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									RAM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									512 MB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Chip đồ hoạ (GPU)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Dual Core Mali400</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bộ nhớ trong</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									8 GB</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thẻ nhớ ngo&agrave;i</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Micro SD</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Hỗ trợ thẻ nhớ tối đa</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									32 GB</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera sau</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									2.0 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Camera trước</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									0.3 MP</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									T&iacute;nh năng camera</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Quay Phim</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Băng tần 3G</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute; 3G ( tốc độ Download 21 Mbps, Upload 5.76 Mbps)</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Băng tần 4G</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									cập nhật</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Wifi</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									802.11b/g/n</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Hỗ trợ SIM</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									GPS</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									A-GPS</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Bluetooth</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Cổng USB</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Jack (Input &amp; Output)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									3.5</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Xem phim</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									AVI/3GP/MP4/MKV/WEBM/MOV/MPG/VOB...</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Nghe nhạc</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									WAV/MP3/MIDI/AAC/APE/MP2/AMR/FLAC/Oggvorbis...</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Ghi &acirc;m</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									C&oacute;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									C&ocirc;ng vụ văn ph&ograve;ng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									WORD/EXCEL/POWERPOINT/PDF/TXT&hellip;</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Ứng dụng kh&aacute;c</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Facebook, -, Game, Lịch, Đồng hồ, B&aacute;o thức, Youtube, Bản đồ, Sổ tay, Google Maps</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									K&iacute;ch thước (DxRxC)</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									189.45x108.15x10.3mm</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Trọng lượng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									264.8g</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Loại pin</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Li-Polymer Battery</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Dung lượng pin</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									2500mAH</p>
+							</td>
+						</tr>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian sử dụng</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									Cập nhật</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td style=\"width:547px;\">
+				<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"686\">
+					<tbody>
+						<tr>
+							<td style=\"width:160px;\">
+								<p>
+									Thời gian bảo h&agrave;nh</p>
+							</td>
+							<td style=\"width:526px;\">
+								<p>
+									12 Th&aacute;ng</p>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
+<p>
+	&nbsp;</p>
+',Title='Sen đá',Keyword='Sen đá',Description='Sen hạt ngọc' where Id=11;
